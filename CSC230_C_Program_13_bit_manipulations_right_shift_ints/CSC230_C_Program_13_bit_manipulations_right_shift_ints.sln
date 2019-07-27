@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CSC230_C_Program_13_bit_manipulations_right_shift_ints", "CSC230_C_Program_13_bit_manipulations_right_shift_ints\CSC230_C_Program_13_bit_manipulations_right_shift_ints.vcxproj", "{EFDEA89F-CD7A-4E52-B985-FDDD3C843B45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFDEA89F-CD7A-4E52-B985-FDDD3C843B45}.Debug|x64.ActiveCfg = Debug|x64
+		{EFDEA89F-CD7A-4E52-B985-FDDD3C843B45}.Debug|x64.Build.0 = Debug|x64
+		{EFDEA89F-CD7A-4E52-B985-FDDD3C843B45}.Debug|x86.ActiveCfg = Debug|Win32
+		{EFDEA89F-CD7A-4E52-B985-FDDD3C843B45}.Debug|x86.Build.0 = Debug|Win32
+		{EFDEA89F-CD7A-4E52-B985-FDDD3C843B45}.Release|x64.ActiveCfg = Release|x64
+		{EFDEA89F-CD7A-4E52-B985-FDDD3C843B45}.Release|x64.Build.0 = Release|x64
+		{EFDEA89F-CD7A-4E52-B985-FDDD3C843B45}.Release|x86.ActiveCfg = Release|Win32
+		{EFDEA89F-CD7A-4E52-B985-FDDD3C843B45}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0938D90-3F8D-4556-8AD0-43F13FB16338}
+	EndGlobalSection
+EndGlobal
